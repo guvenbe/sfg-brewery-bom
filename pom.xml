@@ -66,14 +66,14 @@
     </dependencies>
 
     <scm>
-        <connection>scm:git:git@github.com:guvenbe/sfg-brewery-bom.git</connection>
-        <developerConnection>scm:git:git@github.com:guvenbe/sfg-brewery-bom.git</developerConnection>
-        <url>https://github.com/guvenbe/sfg-brewery-bom</url>
+        <connection>scm:git:git@github.com:guvenbe</connection>
+        <developerConnection>scm:git:git@github.com:guvenbe</developerConnection>
+        <url>https://github.com/guvenbe</url>
         <tag>HEAD</tag>
     </scm>
 
     <issueManagement>
-        <url>https://github.com/sfg-beer-works/sfg-brewery-bom/issues</url>
+        <url>https://github.com/guvenbe/sfg-brewery-bom/issues</url>
         <system>GitHub</system>
     </issueManagement>
 </project>
