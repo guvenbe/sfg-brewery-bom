@@ -3,14 +3,14 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>com.github.sfg-beer-works</groupId>
+        <groupId>com.github.bg-beer-works</groupId>
         <artifactId>sfg-beer-works-bom</artifactId>
-        <version>1.0.26</version>
+        <version>1.0.50</version>
     </parent>
 
     <artifactId>sfg-brewery-bom</artifactId>
 
-    <version>1.0.22</version>
+    <version>1.0.50-SNAPSHOT</version>
 
     <packaging>pom</packaging>
 
