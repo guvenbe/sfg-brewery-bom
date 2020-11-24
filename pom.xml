@@ -10,7 +10,7 @@
 
     <artifactId>sfg-brewery-bom</artifactId>
 
-    <version>1.0.54</version>
+    <version>1.0.55-SNAPSHOT</version>
 
     <packaging>pom</packaging>
 
@@ -69,7 +69,7 @@
         <connection>scm:git:git@github.com:guvenbe/sfg-brewery-bom.git</connection>
         <developerConnection>scm:git:git@github.com:guvenbe/sfg-brewery-bom.git</developerConnection>
         <url>https://github.com/guvenbe/sfg-brewery-bom</url>
-        <tag>sfg-brewery-bom-1.0.54</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <issueManagement>
