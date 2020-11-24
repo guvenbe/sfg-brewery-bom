@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/sfg-beer-works/sfg-brewery-bom.svg?style=svg)](https://circleci.com/gh/sfg-beer-works/sfg-brewery-bom)
+[![CircleCI](https://circleci.com/gh/guvenbe/sfg-brewery-bom.svg?style=svg)](https://circleci.com/gh/guvenbe/sfg-brewery-bom)
 
 # SFG Brewery BOM
 
