@@ -66,9 +66,9 @@
     </dependencies>
 
     <scm>
-        <connection>scm:git:git@github.com:guvenbe/sfg-beer-bom.git</connection>
-        <developerConnection>scm:git:git@github.com:guvenbe/sfg-beer-bom.git</developerConnection>
-        <url>https://github.com/guvenbe/sfg-beer-bom</url>
+        <connection>scm:git:git@github.com:guvenbe/sfg-brewery-bom.git</connection>
+        <developerConnection>scm:git:git@github.com:guvenbe/sfg-brewery-bom.git</developerConnection>
+        <url>https://github.com/guvenbe/sfg-brewery-bom</url>
         <tag>HEAD</tag>
     </scm>
 
